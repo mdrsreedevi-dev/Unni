@@ -1,0 +1,19 @@
+{
+  "name": "Unni",
+  "short_name": "Unni",
+  "description": "Personal encrypted dashboard — tasks, reminders, vault",
+  "start_url": "./Unni.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1524",
+  "theme_color": "#0F1524",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiB2aWV3Qm94PSIwIDAgMTkyIDE5MiI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iNDIiIGZpbGw9IiNENEE2NTciLz4KPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDYsNDYpIiBzdHJva2U9IiMwRjE1MjQiIHN0cm9rZS13aWR0aD0iNyIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPHBhdGggZD0iTTIgNTBDMiAyMiAyMiAyIDUwIDJhNDIgNDIgMCAwIDEgMzQgMTciLz4KPHBhdGggZD0iTTExIDgyQzEzIDc1IDE1IDYzIDE1IDUwYTI1IDI1IDAgMCAxIDEuNC04LjMiLz4KPHBhdGggZD0iTTcyIDg4YzAuNS0yLjUgMS44LTkuNiAyLjEtMTIuNiIvPgo8cGF0aCBkPSJNNTAgNTBhMTcgMTcgMCAwIDEgMTcgMTdjMCA0LjItMSAxMS4zLTIuMSAxNC43Ii8+CjxwYXRoIGQ9Ik0zMyA2M3YtMTNhMTcgMTcgMCAwIDEgMTctMTcgMTcgMTcgMCAwIDEgNi4zIDEuMyIvPgo8cGF0aCBkPSJNMiA2N2gwLjA0Ii8+CjxwYXRoIGQ9Ik05MSA2N2MwLjgtOC40IDAuNS0yMi4zIDAtMjUiLz4KPHBhdGggZD0iTTM3IDI4YTI1IDI1IDAgMCAxIDM3LjUgMjEuN3Y4LjMiLz4KPC9nPgo8L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
